@@ -24,7 +24,7 @@ h6 {
 
 .topnav {
     font-size: 17px; 
-    font: black;
+    font: #00AEFF;
     background-color: transparent;
     border-color: transparent;
 }
@@ -32,13 +32,14 @@ h6 {
 .lead {
     font-size: 18px;
     font-weight: 400;
+    font: #00AEFF;
 }
 
 .intro-header {
     padding-top: 0px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 0px;
     text-align: center;
-    color: #f8f8f8;
+    color: #00AEFF;
     background: url("https://images.gamurs.com/upload/2015/01/10/TheInternational.jpg") no-repeat center center;
     background-size: cover;
     background-size: 1280px 720px;
