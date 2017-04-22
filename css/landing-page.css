@@ -46,6 +46,7 @@ h6 {
     background-size: cover;
     background-size: 1280px 720px;
     background-position:top;
+    align-content: 10px;
 }
 
 .intro-message {
