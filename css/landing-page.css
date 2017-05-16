@@ -10,6 +10,13 @@ html {
     height: 100%;
     background-color: black;
 }
+html{
+    background: url("https://images.gamurs.com/upload/2015/01/10/TheInternational.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 
 body,
 h1,
@@ -21,7 +28,9 @@ h6 {
     font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 700;
 }
-
+.row{
+    
+}
 .topnav {
     font-size: 17px; 
     font: #00AEFF;
@@ -42,11 +51,11 @@ h6 {
     padding-bottom: 0px;
     text-align: center;
     color: transparent;
-    background: url("https://images.gamurs.com/upload/2015/01/10/TheInternational.jpg") no-repeat center center;
-    background-size: cover;
-    background-size: 1280px 720px;
-    background-position:top;
-    align-content: 10px;
+     background: url("https://images.gamurs.com/upload/2015/01/10/TheInternational.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .intro-message {
@@ -172,7 +181,7 @@ h6 {
 
 footer {
     padding: 50px 0;
-    background-color: black;
+    background-color: transparent;
 }
 
 p.copyright {
